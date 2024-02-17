@@ -20,15 +20,4 @@ This repository contains a subset of the TripAdvisor dataset, focusing on key in
   - `Rooms`: [Brief description of the rooms column]
   - `Period of Stay`: [Brief description of the period of stay column]
 
-## Usage
 
-### Downloading the Dataset
-
-You can download the dataset by [provide a link or instructions for downloading the dataset].
-
-### Examples
-
-Provide code examples or notebooks demonstrating how to load and explore the dataset.
-
-```python
-# Example code removed as per request
